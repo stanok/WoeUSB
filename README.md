@@ -1,5 +1,7 @@
 # WoeUSB
 
+woeusb  --target-filesystem NTFS --device path/to/windows.iso /dev/sdX
+
 <https://github.com/WoeUSB/WoeUSB>
 
 A Microsoft Windows® USB installation media preparer for GNU+Linux
